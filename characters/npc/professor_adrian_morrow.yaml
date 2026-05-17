@@ -1,0 +1,79 @@
+npc:
+  identity:
+    name: Professor Adrian Morrow
+    occupation: Professor of Mathematical Statistics
+    faction: Blackthorn University
+    description: >
+      A sharply dressed, soft-spoken academic in his late fifties with silvering hair,
+      precise diction, and an almost ritualistic devotion to formal mathematical tradition.
+      Morrow is widely respected as a brilliant lecturer and institutional stabilizer.
+
+  status:
+    alive: true
+    injured: false
+    infected: false
+    missing: false
+
+  disposition:
+    toward_player: Frustrated affection
+    toward_factions:
+      Blackthorn University: Loyal
+
+  current_location: blackthorn_university
+
+  motivations:
+    - Preserve academic order and intellectual rigor
+    - Prevent reckless research behavior
+    - Protect the university from ideological fragmentation
+    - Understand the collapse without abandoning classical reasoning
+
+  secrets:
+    - Quietly fears Elias may have been correct about several anomalous statistical events
+    - Possesses restricted university research archives related to predictive anomalies
+    - Once attended an unofficial Variance Group seminar and left deeply disturbed
+
+  knowledge:
+    - Advanced probability theory
+    - Classical statistical inference
+    - Academic politics within Blackthorn
+    - Early reports surrounding unexplained collapse phenomena
+
+  inventory:
+    - Brass pocket watch
+    - Rain-damaged lecture notes
+    - Master archive keys
+    - Morphine ampoules
+
+  injuries:
+    - Chronic tremor in left hand
+
+  active_conditions:
+    - Exhausted
+    - Increasingly paranoid
+
+  recent_events:
+    - Attempted to shut down unauthorized research gatherings
+    - Argued publicly with Elias regarding probabilistic interpretation of collapse events
+    - Began privately reviewing forbidden archive materials
+
+  notes: >
+    Professor Morrow represents the old intellectual order of Blackthorn University.
+    He believes true understanding comes through disciplined mastery of accepted
+    formal structures, terminology, and canonical proofs. While intelligent and
+    fundamentally kind, he equates idiomatic fluency with comprehension and struggles
+    deeply with first-principles reasoning that bypasses established academic language.
+
+    Elias repeatedly disappointed him because Elias often arrived at correct or insightful
+    conclusions through unconventional reasoning paths that Morrow considered unstable,
+    undisciplined, or impossible to verify pedagogically.
+
+    Their relationship became emotionally complicated. Morrow simultaneously viewed Elias
+    as:
+    - one of the most gifted minds he had encountered,
+    - intellectually dangerous,
+    - psychologically unstable,
+    - and tragically incapable of functioning within civilized academic structures.
+
+    Despite their conflicts, Morrow attempted several times to mentor Elias in good faith.
+    These attempts usually collapsed into mutual frustration because the two men possessed
+    fundamentally incompatible definitions of what it meant to "understand" mathematics.
