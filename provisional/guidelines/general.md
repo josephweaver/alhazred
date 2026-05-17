@@ -14,6 +14,32 @@ Mechanics should not replace immersive roleplay.
 
 ---
 
+# Rolls Resolve Disagreement
+
+In general, rolls should occur primarily when:
+- outcomes are uncertain,
+- participants disagree about likely outcomes,
+- pressure must be externalized fairly,
+- or meaningful consequences exist.
+
+If:
+- the table already agrees,
+- the narrative outcome feels obvious,
+- or strong roleplay naturally resolves the situation,
+then formal mechanics may be unnecessary.
+
+The purpose of rolling is not to simulate every action.
+
+The purpose of rolling is to:
+- resolve uncertainty,
+- preserve fairness,
+- maintain momentum,
+- and externalize difficult decisions.
+
+Simple opposed rolls are often sufficient.
+
+---
+
 # Fear and Emotional Pressure
 
 Fear levels often function best as:
