@@ -14,6 +14,34 @@ Mechanics should not replace immersive roleplay.
 
 ---
 
+# First Level of Success Is Often Free
+
+Routine competence, basic survival behavior, and obvious character capability should often succeed automatically.
+
+Characters generally should not roll to:
+- recall things they reasonably know,
+- move through open environments without pressure,
+- perform basic trained behavior,
+- stabilize low fear levels,
+- or accomplish dramatically obvious actions.
+
+Examples:
+- A survivor crossing an empty room.
+- A mathematician recalling foundational concepts.
+- A trained scavenger packing supplies.
+- A meditative character reducing low fear through practiced breathing.
+
+Rolls become more useful when:
+- pressure escalates,
+- consequences become meaningful,
+- environments become hostile,
+- outcomes become contested,
+- or higher levels of success are attempted.
+
+The first level of competence should generally reinforce character identity rather than challenge it.
+
+---
+
 # Rolls Resolve Disagreement
 
 In general, rolls should occur primarily when:
