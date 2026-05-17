@@ -1,0 +1,49 @@
+location:
+  identity:
+    name:
+    region:
+    type:
+
+  status:
+    discovered:
+    explored:
+    dangerous:
+    abandoned:
+
+  atmosphere:
+    lighting:
+    weather:
+    smell:
+    sound:
+
+  conditions:
+    -
+
+  clues:
+    discovered:
+      -
+
+    hidden:
+      -
+
+  threats:
+    active:
+      -
+
+    suspected:
+      -
+
+  loot:
+    remaining:
+      -
+
+    removed:
+      -
+
+  connected_locations:
+    -
+
+  factions_present:
+    -
+
+  notes:
