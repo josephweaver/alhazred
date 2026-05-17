@@ -17,6 +17,7 @@ player:
 
   conditions:
     - Sleep deprived
+    - Fear Level 1 (Implicit Controlled Tension)
 
   skills:
     athletics: d10+d12
@@ -35,26 +36,35 @@ player:
   inventory:
     weapons:
       - Folding Knife
-      - Heavy Flashlight
+      - Small .38 Revolver
 
     equipment:
+      - Tin lantern
+      - Journal
+      - Charcoal sticks
       - Rain-soaked satchel
-      - Notebook filled with equations
       - Mechanical pencil
       - University identification card
       - Pocket watch
+      - Backpack
+      - Bedroll
+      - Camp mess kit
+      - Coffee percolator
 
     supplies:
       - Half-empty cigarette pack
       - Lantern oil flask
       - Dried rations
+      - Tin of coffee
+      - Quarter flask whiskey
+      - Matches
 
     ammo:
-      revolver: 0
+      revolver: 2
 
   equipped:
-    right_hand: Heavy Flashlight
-    left_hand: Folding Knife
+    right_hand: Tin lantern
+    left_hand: Utility knife
     body: Raincoat
 
   injuries:
@@ -66,16 +76,26 @@ player:
       notes: >
         Vale recognizes Elias as highly intelligent but emotionally difficult to read.
 
+    - npc: Jonah Mercer
+      disposition: Trusted survivor companion
+      notes: >
+        Mercer trusts Elias due to demonstrated restraint, cognitive discipline,
+        and willingness to avoid dangerous conceptual fixation.
+
   knowledge:
     discovered_locations:
       - Saint Bartholomew Church
+      - Blackthorn University
 
     discovered_clues:
-      - Metallic sounds beneath the church floor
-      - Recently burned candles at abandoned altar
+      - Metallic resonance beneath church
+      - Bell escalation states
+      - Cognitive fixation may increase danger
+      - Observational journaling appears safe if conclusions are avoided
 
     known_npcs:
       - Doctor Vale
+      - Jonah Mercer
 
   current_location: saint_bartholomew_church
 
@@ -83,3 +103,6 @@ player:
     Elias exhibits a high-variance personality structure, alternating between calm
     analytical focus, detached observation, manic enthusiasm, and social instability.
     He often masks uncertainty through intellectualization and behavioral mimicry.
+
+    Elias demonstrated effective meditative cognitive suppression during an escalation
+    event beneath Saint Bartholomew Church.
