@@ -1,0 +1,60 @@
+npc:
+  identity:
+    name: Jonah Mercer
+    occupation: Church caretaker and survivor
+    faction: Saint Bartholomew Church
+    description: >
+      A weary middle-aged caretaker surviving within Saint Bartholomew Church.
+      Intelligent, practical, emotionally restrained, and deeply experienced with
+      dangerous phenomena beneath the church.
+
+  status:
+    alive: true
+    injured: false
+    infected: false
+    missing: false
+
+  disposition:
+    toward_player: Trusted survivor companion
+    toward_factions:
+      Blackthorn University: Suspicious but cautiously respectful
+
+  current_location: saint_bartholomew_church
+
+  motivations:
+    - Survive the collapse
+    - Maintain operational safety procedures
+    - Avoid escalation events
+    - Preserve fragments of ordinary human behavior
+
+  knowledge:
+    - Bell escalation behavior
+    - Safe movement procedures within the church
+    - Survivor routes through the district
+    - River district scavenging locations
+
+  inventory:
+    - Lantern
+    - Coffee percolator
+    - Chalk observation markings
+    - Small food cache
+
+  injuries:
+    - Chronic exhaustion
+
+  active_conditions:
+    - Hypervigilant
+    - Sleep deprived
+
+  recent_events:
+    - Survived second bell escalation with Elias Thorne
+    - Formed cooperative survival pact with Elias
+    - Planned scavenging expedition to river district cannery
+
+  notes: >
+    Mercer survives through procedural discipline rather than courage. He treats
+    the dangers beneath the church as operational hazards rather than mysteries
+    to solve.
+
+    Mercer trusts Elias because Elias demonstrated restraint, cognitive discipline,
+    and willingness to avoid dangerous fixation.
