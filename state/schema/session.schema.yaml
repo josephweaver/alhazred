@@ -1,0 +1,47 @@
+session:
+  metadata:
+    session_id:
+    in_world_date:
+    real_date:
+    active_players:
+
+  summary:
+    major_events:
+      -
+
+    discoveries:
+      -
+
+    complications:
+      -
+
+    combat_encounters:
+      -
+
+  state_changes:
+    player:
+
+    npcs:
+
+    locations:
+
+    world:
+
+  unresolved:
+    mysteries:
+      -
+
+    threats:
+      -
+
+    npc_threads:
+      -
+
+  rewards:
+    loot:
+      -
+
+    knowledge:
+      -
+
+  notes:
