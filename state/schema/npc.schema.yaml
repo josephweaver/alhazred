@@ -1,0 +1,41 @@
+npc:
+  identity:
+    name:
+    occupation:
+    faction:
+    description:
+
+  status:
+    alive:
+    injured:
+    infected:
+    missing:
+
+  disposition:
+    toward_player:
+    toward_factions:
+
+  current_location:
+
+  motivations:
+    -
+
+  secrets:
+    -
+
+  knowledge:
+    -
+
+  inventory:
+    -
+
+  injuries:
+    -
+
+  active_conditions:
+    -
+
+  recent_events:
+    -
+
+  notes:
