@@ -1,0 +1,85 @@
+player:
+  identity:
+    name: Elias Thorne
+    age: 29
+    occupation: Mathematics and Statistics PhD Student
+    background: >
+      Elias Thorne is an academically gifted but psychologically unstable doctoral
+      student whose obsession with patterns, uncertainty, and hidden structure has
+      made him unusually resilient to the fractured logic of the post-collapse world.
+      He survives socially through learned mimicry, carefully observing behavior and
+      reproducing expected emotional responses with unsettling effectiveness.
+
+  health:
+    wounds: 0
+    stamina: 0
+    disadvantage: 0
+
+  conditions:
+    - Sleep deprived
+
+  skills:
+    athletics: d10+d12
+    melee: 2d12
+    ranged: 2d12
+    lore: d8+d10+6
+    thievery: d10+d12
+    social: 2d10+4
+    magic: 2d12
+
+  traits:
+    - Scholar of the Old World
+    - Keen Senses
+    - Shadowstep
+
+  inventory:
+    weapons:
+      - Folding Knife
+      - Heavy Flashlight
+
+    equipment:
+      - Rain-soaked satchel
+      - Notebook filled with equations
+      - Mechanical pencil
+      - University identification card
+      - Pocket watch
+
+    supplies:
+      - Half-empty cigarette pack
+      - Lantern oil flask
+      - Dried rations
+
+    ammo:
+      revolver: 0
+
+  equipped:
+    right_hand: Heavy Flashlight
+    left_hand: Folding Knife
+    body: Raincoat
+
+  injuries:
+    - Chronic insomnia
+
+  relationships:
+    - npc: Doctor Vale
+      disposition: Curious but cautious
+      notes: >
+        Vale recognizes Elias as highly intelligent but emotionally difficult to read.
+
+  knowledge:
+    discovered_locations:
+      - Saint Bartholomew Church
+
+    discovered_clues:
+      - Metallic sounds beneath the church floor
+      - Recently burned candles at abandoned altar
+
+    known_npcs:
+      - Doctor Vale
+
+  current_location: saint_bartholomew_church
+
+  notes: >
+    Elias exhibits a high-variance personality structure, alternating between calm
+    analytical focus, detached observation, manic enthusiasm, and social instability.
+    He often masks uncertainty through intellectualization and behavioral mimicry.
