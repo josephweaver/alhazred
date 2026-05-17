@@ -1,0 +1,65 @@
+player:
+  identity:
+    name:
+    age:
+    occupation:
+    background:
+
+  health:
+    wounds:
+    stamina:
+    disadvantage:
+
+  conditions:
+    -
+
+  skills:
+    athletics:
+    melee:
+    ranged:
+    lore:
+    thievery:
+    social:
+    magic:
+
+  traits:
+    -
+
+  inventory:
+    weapons:
+      -
+
+    equipment:
+      -
+
+    supplies:
+      -
+
+    ammo:
+
+  equipped:
+    right_hand:
+    left_hand:
+    body:
+
+  injuries:
+    -
+
+  relationships:
+    - npc:
+      disposition:
+      notes:
+
+  knowledge:
+    discovered_locations:
+      -
+
+    discovered_clues:
+      -
+
+    known_npcs:
+      -
+
+  current_location:
+
+  notes:
