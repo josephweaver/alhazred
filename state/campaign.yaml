@@ -1,0 +1,16 @@
+campaign:
+  name: Alhazred
+  current_date: "1927-10-14"
+  weather: Cold rain
+  phase: Early Collapse
+
+current_location:
+  saint_bartholomew_church
+
+active_mysteries:
+  - Strange sounds beneath the church
+  - Recently burned candles at abandoned altar
+
+global_threats:
+  - The Choir Beneath Arkham
+  - Quarantine patrols
